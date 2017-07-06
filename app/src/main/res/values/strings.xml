@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AgriDraw Pro</string>
+    <string name="title_activity_main">AgriDraw Pro</string>
+
+    <!-- Main UI -->
+    <string name="btn_manual">Manual</string>
+    <string name="btn_auto">Automatic</string>
+
+    <!-- Dialog auto -->
+    <string name="diag_auto_title">User requested area</string>
+    <string name="diag_auto_desc">Please enter requested area in sq.m.</string>
+
+    <!-- Dialog manual -->
+    <string name="diag_manual_title">Parameters setting</string>
+
+</resources>
